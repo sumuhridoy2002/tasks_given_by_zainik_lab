@@ -1,0 +1,15 @@
+{
+  "name": "tasks",
+  "version": "1.0.0",
+  "description": "Tasks given by Zainik Lab",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Ali Azgor Hridoy",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
